@@ -87,7 +87,7 @@ a:hover {
 
 @media screen and (max-width: 1000px) {
   .main {
-    margin-left: 100px;
+    margin-left: 60px;
   }
 }
 
@@ -374,4 +374,7 @@ a:hover {
   flex-direction: column;
   padding: 20px;
   align-items: center;
+}
+.ant-layout {
+  padding-left: 2%;
 }
